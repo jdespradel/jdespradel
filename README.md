@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 CyberSecurity Development Projects:</h2>
 
-- [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Praciting DS & Algos in Python][(https://github.com/jdespradel/ActiveDirectoryLab))
 
   
 <h2> Certifications</h2>
