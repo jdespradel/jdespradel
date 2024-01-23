@@ -7,7 +7,7 @@
   
 <h2> Certifications</h2>
 
-- [Red Hat System Administrator Certificate of Attendance][(https://github.com/jdespradel/ActiveDirectoryLab))
+- [Red Hat System Administrator Certificate of Attendance][(https://i.imgur.com/VLheS2v.png)
 
 
 <h2> 🤳 Connect with me:</h2>
