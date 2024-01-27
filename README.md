@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
-- [Creating a LAN ][(https://github.com/jdespradel/ActiveDirectoryLab))
+- [Netwok Diagram and Active Directory][(https://github.com/jdespradel/ActiveDirectoryLab))
 
   
 <h2> Certifications</h2>
