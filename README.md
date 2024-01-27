@@ -3,7 +3,7 @@
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
 - [Netwok Diagram and Active Directory][(https://github.com/jdespradel/ActiveDirectoryLab))
-- [Netwok Diagram and Active Directory][(https://github.com/jdespradel/AnsibleAutomationLab))
+- [Creating a Playbook with Ansible using RHEL 9][(https://github.com/jdespradel/AnsibleAutomationLab))
   
 <h2> Certifications</h2>
 
