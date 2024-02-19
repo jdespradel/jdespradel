@@ -5,7 +5,7 @@
 - [Netwok Diagram and Active Directory][(https://github.com/jdespradel/ActiveDirectoryLab))
 - [Creating a Playbook with Ansible using RHEL 9][(https://github.com/jdespradel/AnsibleAutomationLab))
 - [Sceduling Future Tasks using RHEL 9][(https://github.com/jdespradel/FutureTask))
-- [Security Audit Practice][(https://github.com/jdespradel/FutureTask))
+- [Security Audit Practice][(https://github.com/jdespradel/SecurityAudit))
   
 <h2> Certifications</h2>
 
