@@ -7,7 +7,7 @@
 - [Sceduling Future Tasks using RHEL 9][(https://github.com/jdespradel/FutureTask))
 - [Security Audit Practice][(https://github.com/jdespradel/SecurityAudit))
 - [Incident Response practice #1][(https://github.com/jdespradel/IncidentResponse))
-- [Incident Response practice #2][(https://github.com/jdespradel/IncidentResponse))
+- [Incident Response practice #2][(https://github.com/jdespradel/IncidentResponse2))
   
 <h2> Certifications</h2>
 
