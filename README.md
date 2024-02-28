@@ -8,8 +8,9 @@
 - [Security Audit Practice][(https://github.com/jdespradel/SecurityAudit))
 - [Incident Response practice #1][(https://github.com/jdespradel/IncidentResponse))
 - [Incident Response practice #2][(https://github.com/jdespradel/IncidentResponse2))
-- [Security Risk Assessment][(https://github.com/jdespradel/SecurityRiskAssessment))
-    
+- [Security Risk Assessment Practice][(https://github.com/jdespradel/SecurityRiskAssessment))
+- [Security Incident Practice][(https://github.com/jdespradel/SecurityIncident1))
+  
 <h2> Certifications</h2>
 
 - [Red Hat System Administrator Certificate of Attendance][(https://i.imgur.com/VLheS2v.png)
