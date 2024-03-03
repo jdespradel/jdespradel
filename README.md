@@ -15,7 +15,7 @@
 
 - [Red Hat System Administrator Certificate of Attendance][(https://i.imgur.com/VLheS2v.png)
 - [TryHackMe Pre Security Learning Path][(https://i.imgur.com/ACfinJ6.png)
-
+- [TryHackMe Introduction to Cybersecurity Learning Path][https://i.imgur.com/XcXAqg2.png)
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JavierDespradel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
