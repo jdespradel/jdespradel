@@ -14,7 +14,7 @@
 <h2> Certifications</h2>
 
 - [Red Hat System Administrator Certificate of Attendance][(https://i.imgur.com/VLheS2v.png)
-
+- [TryHackMe Pre Security Learning Path][(https://i.imgur.com/ACfinJ6.png)
 
 <h2> 🤳 Connect with me:</h2>
 
