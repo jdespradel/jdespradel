@@ -17,9 +17,9 @@
   
 <h2> Certifications</h2>
 
-- [Red Hat System Administrator Certificate of Attendance][(https://i.imgur.com/VLheS2v.png)
-- [TryHackMe Pre Security Learning Path][(https://i.imgur.com/ACfinJ6.png)
-- [TryHackMe Introduction to Cybersecurity Learning Path][https://i.imgur.com/XcXAqg2.png)
+- [CompTIA Security+][https://i.imgur.com/yyyIIpE.png)
+- [Google Cybersecurity Certificate][(https://i.imgur.com/JdbcDss.png)
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JavierDespradel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
